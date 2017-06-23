@@ -1,4 +1,4 @@
-package main.java;
+package terminus.d;
 
 public class Pt {
 	private int a;

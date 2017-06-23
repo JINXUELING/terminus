@@ -1,10 +1,12 @@
-package test.java;
+package terminus.d;
 
 import java.util.Scanner;
 
 import org.junit.Test;
 
-import main.java.Pt;
+//import junit.framework.Test;
+//import junit.framework.TestCase;
+//import junit.framework.TestSuite;
 
 
 public class Pttest {
